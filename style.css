@@ -1,0 +1,25 @@
+#parent{
+    display: flex;
+    background-color: black;
+    width: 300px;
+    height: 300px;
+    padding: 10;
+}
+
+#child1{
+    background-color: orange;
+    height: 30px;
+    width: 50px;
+}
+
+#child2{
+    background-color: blue;
+    height: 90px;
+    width: 100px;
+}
+
+#child3{
+    background-color: green;
+    height: 50px;
+    width: 30px;
+}
